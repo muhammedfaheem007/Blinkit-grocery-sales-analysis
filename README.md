@@ -87,14 +87,12 @@ The Power BI dashboard provides an interactive view of:
 - Establishment-Year Trends
 - Product-Level Trends
 
-> 📌 Dashboard screenshots will be added to this repository.
-
+> ![Blinkit Grocery Sales Dashboard](blinkit-dashboard.png)
 ---
 
 ## 💡 Business Insights
 
-The analysis helps identify:
-
+The analysis helps identify: 
 - Major contributors to overall sales.
 - Differences in performance between outlet sizes.
 - Sales patterns across different outlet locations.
